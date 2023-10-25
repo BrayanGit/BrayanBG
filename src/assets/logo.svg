@@ -1,0 +1,7 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="150,0 0,300 300,300" fill="turquoise" />
+  <polygon points="150,0 150,300 300,300" fill="purple" />
+  <text x="100" y="190" font-family="Arial" font-size="50" fill="white"></text>
+</svg>
+
+

@@ -47,8 +47,8 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Lidero un equipo de profesionales altamente capacitados y estamos plenamente comprometidos a brindar soluciones operativas y tecnológicas para las empresas del mañana.",
-    name: "Andres BG",
+      "Lidero un equipo de profesionales altamente capacitados y estamos plenamente comprometidos a brindar soluciones operativas y tecnológicas.",
+    name: "Brayan BG",
     title: "Founder & Leader Supreme ",
     img: andres,
   },
@@ -56,15 +56,15 @@ export const feedback = [
     id: "feedback-2",
     content:
       "incorporamos a nuestro equipo a los mejores profesionales que esten motivados y quieran aportar en nuestra organizacion.",
-    name: "Nicolas Pilsener",
+    name: "Nicolas BG",
     title: "Recruiter & Resources",
     img: nicolas,
   },
   {
     id: "feedback-3",
     content:
-      "Nos encargamos de coordinar a nuestros colaboradores lo mas rapido posible para que se pongan manos a la obra maniobra.",
-    name: "Cisar Furious",
+      "Nos encargamos de coordinar a nuestros colaboradores y lograr un crecimiento exponencial de manera grupal",
+    name: "Cisar Parra",
     title: "Coordinator & Activities",
     img: cisar,
   },
@@ -72,7 +72,7 @@ export const feedback = [
     id: "feedback-4",
     content:
       "ejecutamos junto a nuestros colaboradores las actividades que nuestros clientes nesecitan en el campo operacional y tecnologico.",
-    name: "Diangelo Pelao",
+    name: "Diangello Vera",
     title: "Mentor & Team Leader",
     img: pelao,
   },
